@@ -1,0 +1,9 @@
+Order ID,Order Date,Ship Mode,Segment,Country,City,State,Region,Category,Sub-Category,Sales,Quantity,Discount,Profit
+CA-2016-152156,2016-11-08,Second Class,Consumer,United States,Henderson,Kentucky,South,Furniture,Bookcases,261.96,2,0.00,41.91
+CA-2016-152156,2016-11-08,Second Class,Consumer,United States,Henderson,Kentucky,South,Furniture,Chairs,731.94,3,0.00,219.58
+CA-2016-138688,2016-06-12,Second Class,Corporate,United States,Los Angeles,California,West,Office Supplies,Labels,14.62,2,0.00,6.87
+US-2015-108966,2015-10-11,Standard Class,Home Office,United States,Fort Lauderdale,Florida,South,Technology,Phones,907.152,5,0.20,90.72
+CA-2014-115812,2014-06-09,Standard Class,Consumer,United States,Lafayette,Louisiana,South,Furniture,Tables,957.5775,5,0.45,-383.03
+CA-2017-114412,2017-04-15,Standard Class,Consumer,United States,Seattle,Washington,West,Office Supplies,Storage,22.368,2,0.20,2.52
+CA-2016-161389,2016-12-05,Standard Class,Corporate,United States,Concord,North Carolina,South,Technology,Accessories,48.86,7,0.00,14.62
+CA-2016-120999,2016-07-15,Second Class,Consumer,United States,Philadelphia,Pennsylvania,East,Office Supplies,Binders,7.28,4,0.00,1.97
