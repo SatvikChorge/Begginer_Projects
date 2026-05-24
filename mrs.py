@@ -4,7 +4,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 # Load dataset
-df = pd.read_csv(r"C:\Users\My PC\OneDrive\Documents\VsCode\MyWorkspace\Movies.csv")
+df = pd.read_csv("C:\\Users\\DELL\\Documents\\VsCode\\Movies.csv")
 print(df.head())
 
 

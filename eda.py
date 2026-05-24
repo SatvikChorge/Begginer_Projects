@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load Data
-df = pd.read_csv("superstore.csv")
+df = pd.read_csv("C:\\Users\\DELL\\Downloads\\superstore.csv")
 
 # 1. Basic Info
 print("\n--- Dataset Info ---")

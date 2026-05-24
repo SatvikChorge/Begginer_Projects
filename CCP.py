@@ -1,15 +1,15 @@
-import pandas as pd
-import numpy as np
-from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import StandardScaler
-from sklearn.linear_model import LogisticRegression
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.metrics import classification_report, confusion_matrix, accuracy_score
-import seaborn as sns
-import matplotlib.pyplot as plt
+import pandas as pd  # type: ignore
+import numpy as np  # type: ignore
+from sklearn.model_selection import train_test_split  # type: ignore
+from sklearn.preprocessing import StandardScaler  # type: ignore
+from sklearn.linear_model import LogisticRegression  # type: ignore
+from sklearn.ensemble import RandomForestClassifier  # type: ignore
+from sklearn.metrics import classification_report, confusion_matrix, accuracy_score  # type: ignore
+import seaborn as sns  # type: ignore
+import matplotlib.pyplot as plt  # type: ignore
 
 # Load dataset
-df = pd.read_csv(r"C:\Users\My PC\OneDrive\Documents\VsCode\MyWorkspace\churn.csv")
+df = pd.read_csv(r"C:\Users\DELL\Documents\VsCode\churn.csv")
 
 print("\n--- First 5 Rows ---")
 print(df.head())
